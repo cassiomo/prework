@@ -10,10 +10,9 @@ Your algorithm should run in O(n) complexity.
 NOTE: You only need to implement the given function. Do not read input, instead use the arguments to the function. Do not print the output, instead return values as specified. Still have a doubt? Checkout Sample Codes for more details.
 */
 
-package checkpoint5;
+package checkpoint.checkpoint5;
 
 import java.util.Arrays;
-import java.util.HashMap;
 
 public class LongestConsectiveSequence {
     // DO NOT MODIFY THE ARGUMENTS WITH "final" PREFIX. IT IS READ ONLY

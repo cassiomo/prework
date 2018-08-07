@@ -18,7 +18,7 @@ NOTE: You only need to implement the given function. Do not read input, instead 
 */
 
 
-package checkpoint3;
+package checkpoint.checkpoint3;
 
 import java.util.ArrayList;
 

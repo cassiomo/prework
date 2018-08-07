@@ -1,4 +1,4 @@
-package checkpoint3;
+package week1.interview;
 
 import java.util.Collections;
 import java.util.List;

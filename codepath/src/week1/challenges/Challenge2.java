@@ -31,11 +31,11 @@
 //
 
 
-package checkpoint2;
+package week1.challenges;
 
 import java.util.ArrayList;
 
-public class PrettyPrint {
+public class Challenge2 {
 
     public ArrayList<ArrayList<Integer>> prettyPrint(int A) {
         ArrayList<ArrayList<Integer>> result = new ArrayList<ArrayList<Integer>>();

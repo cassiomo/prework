@@ -24,7 +24,7 @@ NOTE: You only need to implement the given function. Do not read input, instead 
 
 
 
-package checkpoint4;
+package checkpoint.checkpoint4;
 
 /**
  * Definition for singly-linked list.
